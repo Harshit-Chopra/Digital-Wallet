@@ -27,7 +27,7 @@ public class Users implements UserDetails {
     @Column(length = 50)
     private String name;
 
-    @Column(unique = true, length =15)
+    @Column(nullable = false, unique = true, length =15)
     private String phoneNo;
 
     @Column(nullable = false, unique = true, length =50)
