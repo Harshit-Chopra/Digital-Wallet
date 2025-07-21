@@ -18,7 +18,6 @@ public class Txn {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-
     @CreationTimestamp
     protected Date createdOn;
 

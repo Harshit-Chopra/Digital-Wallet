@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.gfg</groupId>
-	<artifactId>JBDL-76-EWallet</artifactId>
+	<artifactId>EWallet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>JBDL-76-EWallet</name>
+    <name>EWallet</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
